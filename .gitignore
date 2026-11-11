@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+local_data/
+sources/
+**/posts.jsonl
+**/text_versions.json
+**/collection_status*.json
+*.zip
+*.log

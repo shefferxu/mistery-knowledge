@@ -1,0 +1,23 @@
+{
+  "distribution": "public_index",
+  "account": "https://x.com/wr0789",
+  "completeness": "partial",
+  "own_posts": 2639,
+  "context_posts": 0,
+  "own_long_posts": 22,
+  "own_date_range": [
+    "2026-09-26",
+    "2026-11-11"
+  ],
+  "summary_count": 22,
+  "full_text_posts": 0,
+  "status_note": "公开索引版：包含原推链接、日期、主题标签和整理者摘要，不分发推文全文或网友回复。覆盖不完整，摘要不是原文引述。",
+  "topic_method": "自动关键词多标签，非作者自设分类；整理摘要仅覆盖标记的部分记录。",
+  "exclusions": [
+    "推文全文",
+    "网友回复正文",
+    "图片、音频与视频",
+    "浏览器会话和分页游标",
+    "旧账号及未获取的历史内容"
+  ]
+}

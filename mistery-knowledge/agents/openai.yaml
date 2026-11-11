@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mistery 观点索引"
+  short_description: "检索 m姐公开观点的来源链接、主题与整理摘要，核对时间和适用条件"
+  default_prompt: "使用 $mistery-knowledge 查找 m姐关于恒科定投的原推，区分整理摘要与已核对的原文。"
